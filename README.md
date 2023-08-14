@@ -1,28 +1,25 @@
 ## Personal working environment.
 
 #### Current setup:
-* OS: Linux Mint 21.2
-* DE: Xfce
-* CPU: AMD A10-9600p (I know, it's sucks :D)
-* GPU: AMD Radeon R5
+* OS: Windows 11 (I use [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) for Linux)
+* CPU: Intel i5-10300H
+* GPU: NVIDIA GTX 1650
 * RAM: 8GB
 
 #### Programs:
-* Terminal: [Alacritty](https://alacritty.org/)
-* Shell: [Starship](https://starship.rs/)
-* Text Editor: [VSCode](https://code.visualstudio.com/)
-* IDE: [JetBrains All Products](https://www.jetbrains.com/)
-* App Launcher: [Rofi](https://github.com/davatorium/rofi)
-* Office Suite: [Google Suite](https://www.google.com/intl/en_in/work/apps/business/) & [WPS Office](https://www.wps.com/)
+* Terminal: Windows Terminal
+* Shell: Starship
+* IDE: JetBrains (IntelliJ IDEA, PyCharm, WebStorm, DataGrip, etc.)
+* Code Editor: Visual Studio Code (<i>I prefer JetBrains IDEs</i>)
+* Browser: Brave
 
 #### Fonts:
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
-* [Iosevka](https://typeof.net/Iosevka/)
 * [San Francisco](https://developer.apple.com/fonts/)
+* [Cascadia Code](https://github.com/microsoft/cascadia-code)
 
 #### Screenshots:
 <p align="center">
-  <img src="assets/Screenshot_2023-07-27_17-48-14.png" alt="Screenshot">
+  <img src="assets/Screenshot 2023-08-14 192830.png" alt="Screenshot">
   <br>
-  <i><a href="https://www.wallpaperhub.app/wallpapers/4072"><b>WallpaperHub</b></a></i>
 </p>
